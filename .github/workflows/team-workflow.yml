@@ -1,0 +1,12 @@
+name: Team creation
+
+on:
+  team:
+    types: [created]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Do something
+        run: echo "A new team was created!"
