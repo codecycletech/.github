@@ -1,13 +1,13 @@
 name: Label Created
 on:
-  issues:
-    types: [labeled]
+  labels:
+    types: [created]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Get label name
-      run: echo `${{ github.event.label.name }}`
+      - name: Get label name
+        run: echo `${{ github.event.label.name }}`
     # - name: Do something with the label
     #   run: <insert command here>
