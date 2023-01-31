@@ -35,4 +35,5 @@ assignees: ''
 - [ ] Validate you have updated your Github settings.
 - [ ] Read through Policies and understood the concepts.
 - [ ] Read through General Resources and understood the concepts.
+- [ ] Tag your leader in comment and ask for final review.
 ```
