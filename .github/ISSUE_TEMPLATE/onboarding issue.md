@@ -25,8 +25,8 @@ assignees: ''
 - [ ] Update your Name (`Firstname Lastname`) in Github Profile.
 - [ ] Enable [Github Notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) for **web**.
 - [ ] Enable [two-factor-authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
-- [ ] Go through [Codecycle Policy](https://github.com/codecycletech/docs/blob/main/policies.md).
-- [ ] Go through [Codecycle General Resource](https://github.com/codecycletech/docs/blob/main/general-resources.md)
+- [ ] Go through [Codecycle Policy](https://github.com/codecyclecommunity/docs/blob/main/policies.md).
+- [ ] Go through [Codecycle General Resource](https://github.com/codecyclecommunity/docs/blob/main/general-resources.md)
 ```
 
 ```[tasklist]
