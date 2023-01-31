@@ -19,6 +19,7 @@ assignees: ''
 
 ```[tasklist]
 ### Implement
+- [ ] Assign issue to yourself.
 - [ ] Visit  your Github Profile `https://github.com/yourgithubusername` . Update your github username which contains `firstname-lastname` e.g. `aditi-shah` which will help other people to mention you in Github using @. Refer [Github Profile](https://github.com/aditishah-dev)
 - [ ] Update your profile photo (photo should contain only face with plain background) in Github Profile.
 - [ ] Update your Name (`Firstname Lastname`) in Github Profile.
