@@ -27,8 +27,6 @@ assignees: ''
 - [ ] Enable [Github Notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) for **web**
 - [ ] Enable [two-factor-authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
 - [ ] Go through [Codecycle Policy](https://github.com/codecyclecommunity/docs/blob/main/policies.md)
-- [ ] Go through [Productivity](https://github.com/codecyclecommunity/docs/blob/main/productivity.md)
-- [ ] Learn [Github](https://github.com/codecyclecommunity/docs/blob/main/1_table_of_content.md)
 ```
 
 ```[tasklist]
