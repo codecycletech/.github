@@ -26,9 +26,7 @@ This is PR SAMPLE template for all repo in org - Sample
 - [ ] Review change logs, docs & release notes
 - [ ] After completing all subtasks validate and make PR ready to merge
 
-**After Merge**
 
-- [ ] Delete branch if successfully merged.
 
 ## ℹ️ Info
 

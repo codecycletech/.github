@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project.
+name: New Work
+about: Create a new issue for work.
 title: ""
-labels: "feature request"
+labels: "⏱️ work"
 assignees: ""
 ---
 

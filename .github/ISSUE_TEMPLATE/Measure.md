@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a bug report to help find problem.
+name: Measure
+about: Create a new issue for measure.
 title: ""
-labels: "bug"
+labels: "⏱️ measure"
 assignees: ""
 ---
 
@@ -13,18 +13,20 @@ assignees: ""
 
 ```[tasklist]
 ### Discovery
-- [ ] How to reproduce the issue. Add steps or link to reproduce in comments. 
-- [ ] What is the expected result? And what is the actual result?
 ```
 
 ```[tasklist]
 ### Implement
 - [ ] Update issue (title, assignee, labels, projects, purpose, discovery, implement, measure)
+- [ ] Review & try to improve Github Compass Matrix
+- [ ] Measure, Review & Update last week work
+- [ ] Update current week work
+- [ ] Review & Update GitHub Compass
 ```
 
 ```[tasklist]
 ### Measure
-- [ ] Monitor production after fixing bug for required time
+- [ ] 
 ```
 
 ```[tasklist]
