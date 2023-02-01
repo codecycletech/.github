@@ -8,7 +8,7 @@ assignees: ""
 
 ```[tasklist]
 ### Purpose
-- [ ] Weekly review of your work tracking will help to iterate faster with more clarity.
+- [ ] 
 ```
 
 ```[tasklist]

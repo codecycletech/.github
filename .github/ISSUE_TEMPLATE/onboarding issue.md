@@ -1,7 +1,7 @@
 ---
 name: On boarding Issue
-about: On boarding to Github.
-title: '<Your Name> | On boarding'
+about: On boarding to Github Issue.
+title: 'New Issue | On boarding'
 labels: ''
 assignees: ''
 ---
