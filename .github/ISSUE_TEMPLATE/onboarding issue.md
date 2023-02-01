@@ -33,6 +33,5 @@ We look forward to having you as part of our team and are excited to see what we
 - [ ] Complete all subtasks.
 - [ ] Validate you have updated your Github settings
 - [ ] Read through Policies and understood the concepts
-- [ ] Read through General Resources and understood the concept
 - [ ] Tag your leader in comment and ask for final review
 ```
