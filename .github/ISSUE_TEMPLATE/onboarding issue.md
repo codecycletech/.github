@@ -7,10 +7,9 @@ assignees: ''
 ---
 
 > **Note**
-
-- We are delighted to welcome you as an intern at Codecycle Technologies Private Limited. We understand that joining a new company can be overwhelming and we want to make sure that your transition into our organization is as smooth as possible. To ensure that you hit the ground running, we have prepared the following onboarding document to help you get started.
-- Please read through the document carefully and do not hesitate to contact us if you have any questions.
-- We look forward to having you as part of our team and are excited to see what we can achieve together.
+We are delighted to welcome you as an intern at Codecycle Technologies Private Limited. We understand that joining a new company can be overwhelming and we want to make sure that your transition into our organization is as smooth as possible. To ensure that you hit the ground running, we have prepared the following onboarding document to help you get started.
+Please read through the document carefully and do not hesitate to contact us if you have any questions.
+We look forward to having you as part of our team and are excited to see what we can achieve together.
 
 ```[tasklist]
 ### Discovery
