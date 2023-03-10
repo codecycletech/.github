@@ -1,18 +1,15 @@
----
-name: Pull Request
----
+# Pull request
 
-# Pull Request
-
-```[tasklist]
-### Implement
+## Implement
 - [ ] Update pull request (title, assignee, labels, projects, implement, measure)
 - [ ] Update issue numbers here which will be fixed by this PR | Fixes #
 - [ ] Update labels for clarity & PR workflow
 - [ ] Add/Update comments in code
 - [ ] Self code review as per this [guide](https://google.github.io/eng-practices/review/)
-- [ ] Add/Update change logs, docs and release notes if required.
-```
+- [ ] Add/Update change logs, docs and release notes
+
+## Measure
+
 
 ```[tasklist]
 ### Measure
